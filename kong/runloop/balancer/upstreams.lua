@@ -1,0 +1,7 @@
+---
+--- manages a cache of upstream objects
+--- and the relationship with healthcheckers and balancers
+---
+--- maybe it could eventually be merged into the DAO object?
+---
+---

@@ -1,0 +1,7 @@
+---
+--- manages a cache of targets belonging to an upstream.
+--- each one represents a hostname with a weight,
+--- health status and a list of addresses.
+---
+--- maybe it could eventually be merged into the DAO object?
+---
